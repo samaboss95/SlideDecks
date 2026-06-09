@@ -54,11 +54,11 @@
 - 9/10/2024 - **Can Gen AI make the world more inclusive?** - DataMinds Connect (Mechelen, Belgium)
 [slides](2024/Can_GenAI_Make_the_World_Disability_Inclusive_DataMinds_Connect_2024.pdf)
 
-- 19/09/2024 - **Coding a disability inclusive world: 3 stories** - DUUGFest (Utrecht, Netherlands)
-[slides](2024/Coding_A_Disability_Inclusive_World_DUUGFest_2024.pdf)
-
 - 30/09/2024 - **Coding a disability inclusive world: 3 stories** - Copenhagen Developers Festival (Copenhagen, Denmark)
 [slides](2024/Coding_A_Disability_Inclusive_World_CPH_DevFest_2024.pdf)
+
+- 19/09/2024 - **Coding a disability inclusive world: 3 stories** - DUUGFest (Utrecht, Netherlands)
+[slides](2024/Coding_A_Disability_Inclusive_World_DUUGFest_2024.pdf)
 
 - 27/07/2024 - **Coding a disability inclusive world: 3 stories** - KCDC (Kansas City, USA)
 [slides](2024/Coding_A_Disability_Inclusive_World_KCDC_2024.pdf)
@@ -128,11 +128,11 @@
 - 27/01/2023 - **Exploring Patterns to Debug Your Life** - NDC London (London, UK)
 [slides](2023/Exploring_Patterns_to_Debug_your_Life_NDC_London_2023.pdf)
 
-- TBA - **Autism in Tech** - KEYNOTE (TBA)
-[slides](2023/Autism_in_Tech_KEYNOTE_2023.pdf)
-
 - 12/04/2023 - **Blazing Accessibility Basics WeAreDevs do NET day** - WeAreDevs (TBA)
 [slides](2023/Blazing_Accessibility_Basics_WeAreDEvs_do_NET_Day_2023.pdf)
+
+- TBA - **Autism in Tech** - KEYNOTE (TBA)
+[slides](2023/Autism_in_Tech_KEYNOTE_2023.pdf)
 
 - TBA - **Error 404: Color not found** - Warsaw IT Days (TBA)
 [slides](2023/Error_404_Color_not_found_Warsaw_IT_Days_2023.pdf)
@@ -196,6 +196,12 @@
 - 15/03/2022 - **Exploring Patterns to Debug Your Life** - JavaLand (Brühl, Germany)
 [slides](2022/Exploring_Patterns_to_Debug_your_life_Pycon_Italy_2022.pdf)
 
+- 15/01/2022 - **Speech everything and (let them) rise** - Global AI community pune (TBA)
+[slides](2022/Speech_everything_and_(let them)_rise_Global_AI_community_pune_2022.pdf)
+
+- 10/02/2022 - **Speech everything and (let them) rise** - ASEAN Cloud Community (TBA)
+[slides](2022/Speech_everything_and_(let them)_rise_v2_ASEAN_Cloud_Community_2022.pdf)
+
 - TBA - **Autism in Tech** - Microsoft Reactor (TBA, United Kingdom)
 [slides](2022/Autism_in_Tech_Microsoft_Reactor_2022.pdf)
 
@@ -208,12 +214,6 @@
 - TBA - **Microsoft Cognitive Services for Accessibility** - Microsoft (TBA)
 [slides](2022/Microsoft_Cognitive_Services_for_Accessibility_Microsoft_2022.pdf)
 
-- 15/01/2022 - **Speech everything and (let them) rise** - Global AI community pune (TBA)
-[slides](2022/Speech_everything_and_(let them)_rise_Global_AI_community_pune_2022.pdf)
-
-- 10/02/2022 - **Speech everything and (let them) rise** - ASEAN Cloud Community (TBA)
-[slides](2022/Speech_everything_and_(let them)_rise_v2_ASEAN_Cloud_Community_2022.pdf)
-
 - TBA - **The scary truth about labels Keynote Open Impact event** - Keynote (TBA)
 [slides](2022/The_scary_truth_about_labels_Keynote_Open_Impact_event_2022.pdf)
 
@@ -225,14 +225,14 @@
 
 ### 2021
 
+- 10/12/2021 - **AI for the Better** - MS Dev Summit (TBA)
+[slides](2021/AI_for_The_Better_MS_Dev_Summit_2021.pdf)
+
 - TBA - **AI for the Better** - Azure (TBA)
 [slides](2021/AI_for_The_Better_Azure_2021.pdf)
 
 - TBA - **AI for the Better** - Global AI Community Pune (TBA)
 [slides](2021/AI_for_The_Better_Global_AI_Community_Pune_2021.pdf)
-
-- 10/12/2021 - **AI for the Better** - MS Dev Summit (TBA)
-[slides](2021/AI_for_The_Better_MS_Dev_Summit_2021.pdf)
 
 - TBA - **Autism in Tech** - JavaZone (Oslo, Norway)
 [slides](2021/Autism_in_Tech_JavaZone_2021.pdf)
@@ -263,6 +263,9 @@
 
 ### 2020
 
+- 04/07/2020 - **The state of A&I** - TechDays (..., Finland)
+[slides](2020/2020_The_state_of_A&I_TechDays_Finland.pdf)
+
 - 05/02/2020 - **How do I help my son?** - Jfokus (Stockholm, Sweden)
 [slides](2020/How_Do_I_Help_my_Son_JFocus_2020.pdf)
 
@@ -271,9 +274,6 @@
 
 - 24/01/2020 - **Moving from Azure IaaS to PaaS** - Azure Lowlands (Rotterdam, Netherlands)
 [slides](2020/Moving_From_Azure_IaaS_to_PaaS_Azure_Lowlands_2020.pdf)
-
-- 04/07/2020 - **The state of A&I** - TechDays (..., Finland)
-[slides](2020/2020_The_state_of_A&I_TechDays_Finland.pdf)
 
 - TBA - **Accessible Apps** - Appril (TBA)
 [slides](2020/Accessible_Apps_Appril_2020.pdf)
@@ -370,14 +370,14 @@
 
 ### 2018
 
+- 08/11/2018 - **Help my coworker is autistic** - P3X (TBA)
+[slides](2018/Help_my_coworker_is_autistic_P3X_2018.pdf)
+
 - 17/01/2018 - **The Power of Inclusion** - NDC London (London, UK)
 [slides](2018/The_Power_of_Inclusion_NDC_London_2018.pdf)
 
 - TBA - **Accessible App Design Thoughtworks** - Thoughtworks (TBA)
 [slides](2018/Accessible_App_Design_Thoughtworks_2018.pdf)
-
-- 8/11/2018 - **Help my coworker is autistic** - P3X (TBA)
-[slides](2018/Help_my_coworker_is_autistic_P3X_2018.pdf)
 
 - TBA - **Making Accessible Apps** - Xamarin (TBA)
 [slides](2018/Making_Accessible_Apps_Xamarin_Oslo_2018.pdf)
